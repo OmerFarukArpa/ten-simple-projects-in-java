@@ -13,7 +13,7 @@ public class HESAPLAMA {
         System.out.println("İŞLEM YAPMAK İSTEDİĞİNİZ İKİ SAYIYI GİRİNİZ");
         double a=ara.nextDouble();
         double b=ara.nextDouble();
-        switch(islem){
+        switch(process){
             case 1:
                 System.out.println( a+b );
                 break;
